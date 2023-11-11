@@ -1,0 +1,6 @@
+pyaudio
+aubio
+Pillow
+numpy
+PyQt5
+# tkinter
