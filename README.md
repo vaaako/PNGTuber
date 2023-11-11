@@ -6,7 +6,7 @@ The PNGTuber is designed to change frames dynamically based
 
 I made for fun and because just this funcionality is enough for me
 
-![showcase](media/showcase.png)
+![showcase](media/showcase.gif)
 
 # How to use
 ## Install the requirements
